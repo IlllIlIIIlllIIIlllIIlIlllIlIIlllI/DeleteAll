@@ -1,5 +1,5 @@
 
---Converted with ttyyuu12345's model to script plugin v4
+--This will delete all items in Blox Fruits by putting them 2 million studs into the sky
 function sandbox(var,func)
 	local env = getfenv(func)
 	local newenv = setmetatable({},{
